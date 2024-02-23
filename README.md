@@ -1,8 +1,8 @@
 <div align="center">
 
-# **Adeus**
+# **Adeus_FSR**
 
-Open-Source AI Wearable Device, the future depends on it!
+Open-Source AI Wearable Device, the future depends on it! A version for the people too lazy to deal with databases and believe that the File System Rocks(FSR).
 
 ![ADeus v0.1](docs/images/adeus_01.jpeg)
 
